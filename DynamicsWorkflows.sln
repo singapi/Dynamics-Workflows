@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singapi.Workflows", "Singapi.Workflows\Singapi.Workflows.csproj", "{2110F684-C277-47E7-B8B9-6F17A579D0CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{931DDFEB-41E7-4E39-A2CC-C7345DE61197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singapi.Workflows.Tests", "Tests\Singapi.Workflows.Tests\Singapi.Workflows.Tests.csproj", "{BEB2646D-B31B-4E4E-802D-C66FBB5A92C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB2646D-B31B-4E4E-802D-C66FBB5A92C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB2646D-B31B-4E4E-802D-C66FBB5A92C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB2646D-B31B-4E4E-802D-C66FBB5A92C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB2646D-B31B-4E4E-802D-C66FBB5A92C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BEB2646D-B31B-4E4E-802D-C66FBB5A92C9} = {931DDFEB-41E7-4E39-A2CC-C7345DE61197}
+	EndGlobalSection
+EndGlobal

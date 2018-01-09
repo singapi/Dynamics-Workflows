@@ -3,3 +3,7 @@
 ################################################################################
 
 /packages
+/Singapi.Workflows/bin/Debug
+/Singapi.Workflows/obj/Debug
+/Tests/Singapi.Workflows.Tests/bin/Debug
+/Tests/Singapi.Workflows.Tests/obj/Debug
