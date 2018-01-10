@@ -90,7 +90,9 @@
   <ItemGroup>
     <Compile Include="AggregateCount.cs" />
     <Compile Include="Common\ExpressiveFunctions.cs" />
+    <Compile Include="Common\ServiceFactory.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="Emails\EmailAccessTeam.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
